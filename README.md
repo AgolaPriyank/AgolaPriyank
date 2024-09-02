@@ -1,4 +1,7 @@
-
+- 👋 Hi, I’m Priyank Agola.
+- 👀 I’m interested in Web development. 
+- 🌱 I’m currently learning Django.  
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/patelpriyank07?igsh=bm43cTBsa3M4cXd6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyank-patel-894710252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
